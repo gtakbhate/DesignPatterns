@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryUsingEFinMVC", "RepositoryUsingEFinMVC\RepositoryUsingEFinMVC.csproj", "{5F36AC8A-A7FB-440B-9A7F-3CF3B004AE10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{97706D32-667C-45AB-941D-2BBFD2CBAEF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5F36AC8A-A7FB-440B-9A7F-3CF3B004AE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F36AC8A-A7FB-440B-9A7F-3CF3B004AE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F36AC8A-A7FB-440B-9A7F-3CF3B004AE10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97706D32-667C-45AB-941D-2BBFD2CBAEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97706D32-667C-45AB-941D-2BBFD2CBAEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97706D32-667C-45AB-941D-2BBFD2CBAEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97706D32-667C-45AB-941D-2BBFD2CBAEF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
